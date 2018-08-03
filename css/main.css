@@ -85,3 +85,15 @@ button{
     margin-bottom: 40px;
     font-size: 13px;
 }
+
+.select{
+    display: flex;
+}
+
+select{
+    width: 58px;
+}
+
+.grow{
+    flex-grow: 1;
+}
